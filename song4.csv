@@ -1,0 +1,692 @@
+Sno,Song,Artist,ArtistID,Cluster
+1,"Save Me, San Francisco",Train,1,0
+2,"Hey, Soul Sister",Train,1,1
+3,I Got You,Train,1,3
+4,"Cadillac, Cadillac",Train,1,1
+5,Bulletproof Picasso,Train,1,3
+6,Angel in Blue Jeans,Train,1,3
+7,She's On Fire,Train,1,3
+8,I Wish You Would,Train,1,3
+9,Drops of Jupiter,Train,1,3
+10,Bad Guy,Eminem,2,3
+11,Parking Lot (Skit),Eminem,2,0
+12,Rhyme or Reason,Eminem,2,1
+13,Cold Wind Blows,Eminem,2,0
+14,On Fire,Eminem,2,0
+15,Curtains Up (Skit),Eminem,2,3
+16,White America,Eminem,2,3
+17,Business,Eminem,2,1
+18,Blow,Kesha,3,1
+19,The Sleazy Remix (feat. André 3000),Kesha,3,1
+20,TiK ToK,Kesha,3,1
+21,Love,Kesha,3,1
+22,LoveGame,Lady Gaga,4,1
+23,Paparazzi,Lady Gaga,4,1
+24,Bad Romance,Lady Gaga,4,1
+25,Alejandro,Lady Gaga,4,3
+26,Monster,Lady Gaga,4,0
+27,Young Girls,Bruno Mars,5,2
+28,Locked Out of Heaven,Bruno Mars,5,1
+29,Gorilla,Bruno Mars,5,2
+30,24K Magic,Bruno Mars,5,1
+31,Chunky,Bruno Mars,5,3
+32,Perm,Bruno Mars,5,1
+33,Grenade,Bruno Mars,5,1
+34,Just the Way You Are,Bruno Mars,5,1
+35,Our First Time,Bruno Mars,5,2
+36,Somebody to Love,Justin Bieber,6,1
+37,Stuck In the Moment,Justin Bieber,6,1
+38,Boyfriend,Justin Bieber,6,1
+39,Boyfriend,Justin Bieber,6,1
+40,As Long As You Love Me,Justin Bieber,6,3
+41,Beauty and a Beat,Justin Bieber,6,3
+42,Dynamite,Taio Cruz,7,1
+43,Dynamite,Taio Cruz,7,1
+44,Say (All I Need),OneRepublic,8,3
+45,Mercy,OneRepublic,8,3
+46,Stop and Stare,OneRepublic,8,3
+47,Counting Stars,OneRepublic,8,1
+48,Love Runs Out,OneRepublic,8,1
+49,If I Lose Myself,OneRepublic,8,3
+50,Counting Stars,OneRepublic,8,1
+51,If I Lose Myself,OneRepublic,8,3
+52,Feel Again,OneRepublic,8,3
+53,Harlem's Nocturne,Alicia Keys,9,2
+54,Karma,Alicia Keys,9,1
+55,Heartburn,Alicia Keys,9,1
+56,The Element of Freedom (Intro),Alicia Keys,9,2
+57,Love Is Blind,Alicia Keys,9,3
+58,Once In a Lifetime,Flo Rida,11,1
+59,My House,Flo Rida,11,1
+60,"I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)",Flo Rida,11,1
+61,Finally Here,Flo Rida,11,1
+62,Jump (feat. Nelly Furtado),Flo Rida,11,1
+63,Gotta Get It (Dancer),Flo Rida,11,1
+64,American Superstar (feat. Lil Wayne),Flo Rida,11,1
+65,Elevator (feat. Timbaland),Flo Rida,11,1
+66,31 Minutes to Takeoff,Mike Posner,12,2
+67,Please Don't Go,Mike Posner,12,1
+68,Bow Chicka Wow Wow,Mike Posner,12,1
+69,"At Night, Alone.",Mike Posner,12,2
+70,I Took a Pill in Ibiza,Mike Posner,12,1
+71,Not That Simple,Mike Posner,12,1
+72,Drug Dealer Girl,Mike Posner,12,1
+73,Cooler Than Me,Mike Posner,12,0
+74,Red Button,Mike Posner,12,1
+75,Like a G6,Far East Movement,13,3
+76,Like a G6,Far East Movement,13,3
+77,Live My Life (feat. Justin Bieber),Far East Movement,13,1
+78,Intro,Usher,14,0
+79,Yeah!,Usher,14,1
+80,Throwback (feat. Jadakiss),Usher,14,1
+81,Scream,Usher,14,3
+82,Climax,Usher,14,2
+83,You Make Me Wanna...,Usher,14,1
+84,Just Like Me,Usher,14,0
+85,Nice & Slow,Usher,14,1
+86,Intro,Sean Kingston,15,0
+87,Kingston,Sean Kingston,15,3
+88,Take You There,Sean Kingston,15,1
+89,Intro,Sean Kingston,15,0
+90,Kingston,Sean Kingston,15,3
+91,Take You There,Sean Kingston,15,1
+92,Back 2 Life (Live It Up) [feat. T.I.],Sean Kingston,15,1
+93,Beat It (feat. Chris Brown & Wiz Khalifa),Sean Kingston,15,3
+94,Hold That (feat. Yo Gotti),Sean Kingston,15,1
+95,Boom Boom Pow,The Black Eyed Peas,16,1
+96,Rock That Body,The Black Eyed Peas,16,1
+97,Meet Me Halfway,The Black Eyed Peas,16,1
+98,Pump It,The Black Eyed Peas,16,1
+99,The Time (Dirty Bit),The Black Eyed Peas,16,1
+100,Music Again,Adam Lambert,17,3
+101,For Your Entertainment,Adam Lambert,17,1
+102,Whataya Want from Me,Adam Lambert,17,3
+103,Trespassing,Adam Lambert,17,1
+104,Cuckoo,Adam Lambert,17,1
+105,Music Again,Adam Lambert,17,3
+106,For Your Entertainment,Adam Lambert,17,1
+107,Whataya Want from Me,Adam Lambert,17,3
+108,If I Never See Your Face Again,Maroon 5,18,1
+109,Makes Me Wonder,Maroon 5,18,1
+110,Little of Your Time,Maroon 5,18,1
+111,Harder To Breathe,Maroon 5,18,1
+112,This Love,Maroon 5,18,1
+113,Shiver,Maroon 5,18,0
+114,One More Night,Maroon 5,18,1
+115,Daylight,Maroon 5,18,1
+116,Sins of My Youth,Neon Trees,19,3
+117,Love and Affection,Neon Trees,19,3
+118,Animal,Neon Trees,19,3
+119,Moving In the Dark,Neon Trees,19,3
+120,Teenage Sounds,Neon Trees,19,3
+121,Everybody Talks,Neon Trees,19,3
+122,Love In the 21st Century,Neon Trees,19,3
+123,Text Me In the Morning,Neon Trees,19,3
+124,Sleeping With a Friend,Neon Trees,19,3
+125,When the Sun Goes Down,Selena Gomez & The Scene,20,1
+126,Round & Round,Selena Gomez & The Scene,20,0
+127,A Year Without Rain,Selena Gomez & The Scene,20,1
+128,Rock God,Selena Gomez & The Scene,20,1
+129,Ring My Bells,Enrique Iglesias,21,1
+130,Do You Know? (The Ping Pong Song),Enrique Iglesias,21,1
+131,I Like It (feat. Pitbull),Enrique Iglesias,21,1
+132,Roar,Katy Perry,22,3
+133,Legendary Lovers,Katy Perry,22,1
+134,Birthday,Katy Perry,22,1
+135,One of the Boys,Katy Perry,22,3
+136,I Kissed a Girl,Katy Perry,22,1
+137,Waking Up In Vegas,Katy Perry,22,3
+138,Teenage Dream,Katy Perry,22,1
+139,Last Friday Night (T.G.I.F.),Katy Perry,22,0
+140,California Gurls (feat. Snoop Dogg),Katy Perry,22,1
+141,Womanizer,Britney Spears,23,1
+142,Circus,Britney Spears,23,1
+143,Out from Under,Britney Spears,23,2
+144,Till the World Ends,Britney Spears,23,1
+145,Hold It Against Me,Britney Spears,23,1
+146,Inside Out,Britney Spears,23,1
+147,Tapp,3OH!3,24,1
+148,Punkb*Tch,3OH!3,24,3
+149,Beaumont,3OH!3,24,3
+150,I Can Do Anything,3OH!3,24,0
+151,My First Kiss (feat. Ke$ha),3OH!3,24,1
+152,Beaumont,3OH!3,24,3
+153,I Can Do Anything,3OH!3,24,0
+154,My First Kiss (feat. Ke$ha),3OH!3,24,1
+155,Where Them Girls At (feat. Nicki Minaj & Flo Rida),David Guetta,25,1
+156,Little Bad Girl (feat. Taio Cruz & Ludacris),David Guetta,25,1
+157,Turn Me On (feat. Nicki Minaj),David Guetta,25,1
+158,Dangerous (feat. Sam Martin),David Guetta,25,2
+159,What I Did For Love (feat. Emeli Sandé),David Guetta,25,3
+160,No Money No Love (feat. Elliphant & Ms. Dynamite),David Guetta,25,1
+161,Sexy Bitch (feat. Akon),David Guetta,25,1
+162,Gettin' Over You (feat. Fergie & LMFAO),David Guetta,25,1
+163,Memories (feat. Kid Cudi),David Guetta,25,3
+164,Stripped Intro,Christina Aguilera,26,3
+165,Walk Away,Christina Aguilera,26,2
+166,Lotus Intro,Christina Aguilera,26,3
+167,Army of Me,Christina Aguilera,26,1
+168,Red Hot Kinda Love,Christina Aguilera,26,1
+169,Dog Days Are Over,Florence + The Machine,27,3
+170,Rabbit Heart (Raise It Up),Florence + The Machine,27,3
+171,Only If for a Night,Florence + The Machine,27,3
+172,Shake It Out,Florence + The Machine,27,0
+173,What the Water Gave Me,Florence + The Machine,27,3
+174,Ship To Wreck,Florence + The Machine,27,3
+175,What Kind of Man,Florence + The Machine,27,3
+176,"How Big, How Blue, How Beautiful",Florence + The Machine,27,2
+177,How Do You Do,Shakira,28,3
+178,Illegal (feat. Carlos Santana),Shakira,28,2
+179,Hips Don't Lie (feat. Wyclef Jean),Shakira,28,0
+180,Objection (Tango),Shakira,28,3
+181,Underneath Your Clothes,Shakira,28,2
+182,"Whenever, Wherever",Shakira,28,1
+183,En Tus Pupilas,Shakira,28,2
+184,La Pared,Shakira,28,2
+185,La Tortura (feat. Alejandro Sanz),Shakira,28,1
+186,Intro,Tinie Tempah,29,3
+187,Simply Unstoppable,Tinie Tempah,29,3
+188,Pass Out,Tinie Tempah,29,1
+189,Sexy Beast (Freestyle),Tinie Tempah,29,1
+190,Big Money,Tinie Tempah,29,3
+191,Body Language,Tinie Tempah,29,3
+192,56 Bars (Intro),T.I.,30,0
+193,Ready for Whatever,T.I.,30,3
+194,The Introduction,T.I.,30,3
+195,G Season (feat. Meek Mill),T.I.,30,1
+196,Trap Back Jumpin,T.I.,30,1
+197,Welcome to the World (feat. Kanye West & Kid Cudi),T.I.,30,1
+198,How Life Changed (feat. Mitchelle'l & Scarface),T.I.,30,1
+199,Get Back Up (feat. Chris Brown),T.I.,30,2
+200,Trust,Christina Perri,32,2
+201,Burning Gold,Christina Perri,32,3
+202,Bluebird,Christina Perri,32,2
+203,Arms,Christina Perri,32,3
+204,Bang Bang Bang,Christina Perri,32,3
+205,Bluebird,Christina Perri,32,2
+206,Arms,Christina Perri,32,3
+207,Bang Bang Bang,Christina Perri,32,3
+208,Hello,Adele,33,3
+209,Send My Love (To Your New Lover),Adele,33,1
+210,I Miss You,Adele,33,0
+211,Ride,Adele,33,2
+212,One and Only,Adele,33,3
+213,Rumour Has It,Adele,33,2
+214,Mr. Worldwide (Intro) [feat. Vein],Pitbull,34,1
+215,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",Pitbull,34,1
+216,Rain Over Me (feat. Marc Anthony),Pitbull,34,0
+217,Ah Leke (feat. Sean Paul),Pitbull,34,1
+218,Fun (feat. Chris Brown),Pitbull,34,1
+219,Fireball (feat. John Ryan),Pitbull,34,1
+220,Global Warming (feat. Sensato),Pitbull,34,1
+221,Feel This Moment (feat. Christina Aguilera),Pitbull,34,1
+222,Pretty Hurts,Beyonc,35,3
+223,Haunted,Beyonc,35,0
+224,Drunk in Love (feat. Jay Z),Beyonc,35,3
+225,07-Nov,Beyonc,35,1
+226,Flawless Remix (feat. Nicki Minaj),Beyonc,35,0
+227,Drunk in Love Remix (feat. JAY Z & Kanye West),Beyonc,35,3
+228,Love On Top,Beyonc,35,0
+229,Party (feat. André 3000),Beyonc,35,1
+230,Schoolin' Life,Beyonc,35,1
+231,I Like It Like That (feat. New Boyz),Hot Chelle Rae,36,1
+232,Tonight Tonight,Hot Chelle Rae,36,1
+233,Honestly,Hot Chelle Rae,36,1
+234,Say (Half Past Nine),Hot Chelle Rae,36,3
+235,I Like to Dance,Hot Chelle Rae,36,3
+236,Never Have I Ever,Hot Chelle Rae,36,3
+237,I Hate LA,Hot Chelle Rae,36,1
+238,Too Much,Hot Chelle Rae,36,1
+239,Stay,Hot Chelle Rae,36,3
+240,Head Above Water,Avril Lavigne,37,3
+241,Birdie,Avril Lavigne,37,3
+242,I Fell in Love with the Devil,Avril Lavigne,37,3
+243,Take Me Away,Avril Lavigne,37,3
+244,Together,Avril Lavigne,37,3
+245,Dark Fantasy,Kanye West,38,3
+246,Power,Kanye West,38,0
+247,On Sight,Kanye West,38,2
+248,Black Skinhead,Kanye West,38,1
+249,Intro,Kanye West,38,0
+250,We Don't Care,Kanye West,38,3
+251,Graduation Day,Kanye West,38,2
+252,Rock the Beat II,LMFAO,39,3
+253,Sorry for Party Rocking,LMFAO,39,0
+254,Rock the Beat II,LMFAO,39,3
+255,Sorry for Party Rocking,LMFAO,39,0
+256,Sweet Talker,Jessie J,40,2
+257,Price Tag (feat. B.o.B),Jessie J,40,0
+258,Nobody's Perfect,Jessie J,40,0
+259,Abracadabra,Jessie J,40,1
+260,Good Hit,Jennifer Lopez,41,1
+261,First Love,Jennifer Lopez,41,3
+262,Never Satisfied,Jennifer Lopez,41,3
+263,Qué Hiciste,Jennifer Lopez,41,2
+264,Me Haces Falta,Jennifer Lopez,41,1
+265,Como Ama una Mujer,Jennifer Lopez,41,2
+266,Back to Sleep,Chris Brown,42,0
+267,Fine By Me,Chris Brown,42,1
+268,Wrist (feat. Solo Lucci),Chris Brown,42,2
+269,Westside,Chris Brown,42,1
+270,Nothin' Like Me (feat. Ty Dolla $ign),Chris Brown,42,1
+271,Ayo,Chris Brown,42,1
+272,Lost & Found,Chris Brown,42,2
+273,Privacy,Chris Brown,42,1
+274,Juicy Booty (feat. Jhené Aiko & R. Kelly),Chris Brown,42,1
+275,Overture,Sleeping At Last,43,2
+276,Woodwork,Sleeping At Last,43,2
+277,The Safety Dance,Sleeping At Last,43,2
+278,Total Eclipse of the Heart,Sleeping At Last,43,2
+279,Porcelain,Sleeping At Last,43,2
+280,Chandeliers,Sleeping At Last,43,2
+281,Naive,Sleeping At Last,43,2
+282,All Things Go,Nicki Minaj,44,1
+283,I Lied,Nicki Minaj,44,2
+284,I'm the Best,Nicki Minaj,44,0
+285,Did It On'em,Nicki Minaj,44,3
+286,Roman Holiday,Nicki Minaj,44,1
+287,Come On a Cone,Nicki Minaj,44,1
+288,Are We All We Are,P!nk,45,0
+289,Blow Me (One Last Kiss),P!nk,45,3
+290,Try,P!nk,45,1
+291,Get the Party Started,P!nk,45,1
+292,There You Go,P!nk,45,1
+293,So What,P!nk,45,3
+294,Sober,P!nk,45,3
+295,I Don't Believe You,P!nk,45,2
+296,Mylo Xyloto,Coldplay,46,2
+297,Hurts Like Heaven,Coldplay,46,3
+298,Paradise,Coldplay,46,3
+299,Always In My Head,Coldplay,46,3
+300,Magic,Coldplay,46,1
+301,Ink,Coldplay,46,1
+302,Best Song Ever,One Direction,47,1
+303,Story of My Life,One Direction,47,1
+304,Diana,One Direction,47,3
+305,Steal My Girl,One Direction,47,3
+306,Ready to Run,One Direction,47,3
+307,Where Do Broken Hearts Go,One Direction,47,3
+308,Welcome To New York,Taylor Swift,48,1
+309,Blank Space,Taylor Swift,48,1
+310,Style,Taylor Swift,48,3
+311,Mine,Taylor Swift,48,3
+312,Sparks Fly,Taylor Swift,48,3
+313,Back to December,Taylor Swift,48,3
+314,Tiny Little Bows,Carly Rae Jepsen,49,1
+315,This Kiss,Carly Rae Jepsen,49,1
+316,Call Me Maybe,Carly Rae Jepsen,49,1
+317,First Time,Carly Rae Jepsen,49,1
+318,Higher,Carly Rae Jepsen,49,3
+319,The One,Carly Rae Jepsen,49,1
+320,Mr. Know It All,Kelly Clarkson,50,1
+321,Stronger (What Doesn't Kill You),Kelly Clarkson,50,3
+322,Dark Side,Kelly Clarkson,50,3
+323,Breakaway,Kelly Clarkson,50,3
+324,Since U Been Gone,Kelly Clarkson,50,1
+325,Behind These Hazel Eyes,Kelly Clarkson,50,3
+326,Wrapped in Red,Kelly Clarkson,50,2
+327,Underneath the Tree,Kelly Clarkson,50,3
+328,Have Yourself a Merry Little Christmas,Kelly Clarkson,50,2
+329,Cave In,Owl City,51,1
+330,The Bird and the Worm,Owl City,51,3
+331,Hello Seattle,Owl City,51,3
+332,The Real World,Owl City,51,3
+333,Deer In the Headlights,Owl City,51,3
+334,Angels,Owl City,51,1
+335,Dreams and Disasters,Owl City,51,3
+336,Shooting Star,Owl City,51,3
+337,Gold,Owl City,51,3
+338,Glad You Came,The Wanted,52,1
+339,Chasing the Sun,The Wanted,52,0
+340,All Time Low,The Wanted,52,1
+341,We Own the Night,The Wanted,52,3
+342,In the Middle,The Wanted,52,1
+343,Running Out of Reasons,The Wanted,52,1
+344,Glad You Came,The Wanted,52,1
+345,Glad You Came,The Wanted,52,1
+346,Glad You Came,The Wanted,52,1
+347,Some Nights (Intro),fun.,53,2
+348,Some Nights,fun.,53,1
+349,We Are Young (feat. Janelle Monáe),fun.,53,3
+350,Be Calm,fun.,53,3
+351,Benson Hedges,fun.,53,0
+352,All the Pretty Girls,fun.,53,1
+353,Be Calm,fun.,53,3
+354,Benson Hedges,fun.,53,0
+355,All the Pretty Girls,fun.,53,1
+356,My Blood,Ellie Goulding,54,2
+357,Anything Could Happen,Ellie Goulding,54,2
+358,Za Intro,Gym Class Heroes,55,2
+359,Martyrial Girl$,Gym Class Heroes,55,3
+360,Life Goes On (feat. Oh Land),Gym Class Heroes,55,3
+361,The Queen and I,Gym Class Heroes,55,1
+362,Shoot Down the Stars,Gym Class Heroes,55,1
+363,New Friend Request,Gym Class Heroes,55,1
+364,The Queen and I,Gym Class Heroes,55,1
+365,Shoot Down the Stars,Gym Class Heroes,55,1
+366,New Friend Request,Gym Class Heroes,55,1
+367,Wake Me Up,Avicii,56,3
+368,You Make Me,Avicii,56,3
+369,Hey Brother,Avicii,56,3
+370,Levels,Avicii,56,3
+371,Levels,Avicii,56,3
+372,Levels,Avicii,56,3
+373,We Cry,The Script,57,3
+374,Before the Worst,The Script,57,0
+375,Talk You Down,The Script,57,3
+376,No Good in Goodbye,The Script,57,3
+377,Superheroes,The Script,57,3
+378,Man on a Wire,The Script,57,3
+379,Breakout,Miley Cyrus,58,3
+380,7 Things,Miley Cyrus,58,3
+381,The Driveway,Miley Cyrus,58,3
+382,Liberty Walk,Miley Cyrus,58,3
+383,Who Owns My Heart,Miley Cyrus,58,3
+384,Younger Now,Miley Cyrus,58,3
+385,Malibu,Miley Cyrus,58,3
+386,Rainbowland (feat. Dolly Parton),Miley Cyrus,58,3
+387,Greyhound,Swedish House Mafia,59,1
+388,Antidote (Radio Edit),Swedish House Mafia,59,1
+389,Antidote,Swedish House Mafia,59,1
+390,Antidote (Knife Party Dub),Swedish House Mafia,59,1
+391,Give Life Back to Music,Daft Punk,60,1
+392,The Game of Love,Daft Punk,60,2
+393,Giorgio by Moroder,Daft Punk,60,1
+394,Back from the Edge,James Arthur,61,3
+395,Say You Won't Let Go,James Arthur,61,2
+396,Prisoner,James Arthur,61,3
+397,Get Down,James Arthur,61,3
+398,New Tattoo,James Arthur,61,1
+399,Complicated,Robin Thicke,62,2
+400,Would That Make U Love Me,Robin Thicke,62,1
+401,Take It Easy On Me,Robin Thicke,62,1
+402,Ooo La La,Robin Thicke,62,1
+403,911,Robin Thicke,62,1
+404,Mrs. Sexy,Robin Thicke,62,1
+405,Sex Therapy,Robin Thicke,62,2
+406,Who's That Boy (feat. Dev),Demi Lovato,63,1
+407,Confident,Demi Lovato,63,3
+408,Cool for the Summer,Demi Lovato,63,3
+409,Old Ways,Demi Lovato,63,1
+410,La la Land,Demi Lovato,63,3
+411,Get Back,Demi Lovato,63,3
+412,Trainwreck,Demi Lovato,63,3
+413,Shave It Up,Zedd,64,3
+414,Shave It Up,Zedd,64,3
+415,Born to Die,Lana Del Rey,65,3
+416,Off to the Races,Lana Del Rey,65,3
+417,Blue Jeans,Lana Del Rey,65,2
+418,Ride,Lana Del Rey,65,3
+419,American,Lana Del Rey,65,2
+420,Cola,Lana Del Rey,65,0
+421,Born to Die,Lana Del Rey,65,3
+422,Off to the Races,Lana Del Rey,65,3
+423,Blue Jeans,Lana Del Rey,65,2
+424,Green Valley,Calvin Harris,66,2
+425,Bounce (feat. Kelis),Calvin Harris,66,0
+426,Feel so Close,Calvin Harris,66,1
+427,Faith,Calvin Harris,66,0
+428,Under Control (feat. Hurts),Calvin Harris,66,1
+429,Blame (feat. John Newman),Calvin Harris,66,3
+430,Slide (feat. Frank Ocean & Migos),Calvin Harris,66,2
+431,"Cash Out (feat. ScHoolboy Q, PARTYNEXTDOOR & D.R.A.M)",Calvin Harris,66,1
+432,"Heatstroke (feat. Young Thug, Pharrell Williams & Ariana Grande)",Calvin Harris,66,1
+433,Keep the Family Close,Drake,67,3
+434,9,Drake,67,1
+435,U With Me?,Drake,67,2
+436,Legend,Drake,67,1
+437,Energy,Drake,67,0
+438,10 Bands,Drake,67,1
+439,Tuscan Leather,Drake,67,3
+440,Furthest Thing,Drake,67,3
+441,Started From the Bottom,Drake,67,1
+442,Love Song,Sara Bareilles,68,3
+443,Vegas,Sara Bareilles,68,3
+444,Bottle It Up,Sara Bareilles,68,1
+445,Kaleidoscope Heart,Sara Bareilles,68,2
+446,Uncharted,Sara Bareilles,68,3
+447,Gonna Get Over You,Sara Bareilles,68,3
+448,Once Upon Another Time,Sara Bareilles,68,2
+449,Stay,Sara Bareilles,68,2
+450,Lie to Me,Sara Bareilles,68,1
+451,Ten Thousand Hours,Macklemore & Ryan Lewis,69,3
+452,Thrift Shop (feat. Wanz),Macklemore & Ryan Lewis,69,1
+453,Ten Thousand Hours,Macklemore & Ryan Lewis,69,3
+454,Thrift Shop (feat. Wanz),Macklemore & Ryan Lewis,69,1
+455,Ten Thousand Hours,Macklemore & Ryan Lewis,69,3
+456,Thrift Shop (feat. Wanz),Macklemore & Ryan Lewis,69,1
+457,Beneath Your Beautiful (feat. Emeli Sandé),Labrinth,70,3
+458,Express Yourself,Labrinth,70,1
+459,Let the Sun Shine,Labrinth,70,2
+460,New Girl,Labrinth,70,2
+461,Formula,Labrinth,70,3
+462,Preparing for Call,Labrinth,70,1
+463,Closer,Ne-Yo,71,1
+464,Nobody,Ne-Yo,71,2
+465,Single,Ne-Yo,71,1
+466,Cracks in Mr. Perfect,Ne-Yo,71,0
+467,Lazy Love,Ne-Yo,71,3
+468,Let Me Love You (Until You Learn to Love Yourself),Ne-Yo,71,1
+469,Because of You,Ne-Yo,71,2
+470,Can We Chill,Ne-Yo,71,1
+471,Intro,Ariana Grande,72,2
+472,One Last Time,Ariana Grande,72,1
+473,Moonlight,Ariana Grande,72,2
+474,Dangerous Woman,Ariana Grande,72,1
+475,Be Alright,Ariana Grande,72,1
+476,Filthy,Justin Timberlake,73,1
+477,Midnight Summer Jam,Justin Timberlake,73,1
+478,Sauce,Justin Timberlake,73,1
+479,Señorita,Justin Timberlake,73,1
+480,(Oh No) What You Got,Justin Timberlake,73,1
+481,FutureSex / LoveSound,Justin Timberlake,73,1
+482,SexyBack (feat. Timbaland),Justin Timberlake,73,1
+483,Medley: Sexy Ladies / Let Me Talk to You (Prelude),Justin Timberlake,73,1
+484,I Love It (feat. Charli XCX),Icona Pop,75,1
+485,All Night,Icona Pop,75,0
+486,We Got the World,Icona Pop,75,3
+487,I Love It (feat. Charli XCX) [Cobra Starship Remix] [Radio Edit],Icona Pop,75,1
+488,I Love It (feat. Charli XCX) [Nari & Milani Radio Edit],Icona Pop,75,3
+489,I Love It (feat. Charli XCX) [Style of Eye Remix],Icona Pop,75,1
+490,I Love It (feat. Charli XCX),Icona Pop,75,1
+491,All Night,Icona Pop,75,0
+492,We Got the World,Icona Pop,75,3
+493,Clumsy,Fergie,76,1
+494,Labels or Love,Fergie,76,1
+495,Barracuda,Fergie,76,3
+496,Hungry (feat. Rick Ross),Fergie,76,1
+497,Like It Ain't Nuttin',Fergie,76,1
+498,You Already Know (feat. Nicki Minaj) [Interlude Version],Fergie,76,1
+499,Wings,Little Mix,77,1
+500,DNA,Little Mix,77,3
+501,Change Your Life,Little Mix,77,3
+502,Salute,Little Mix,77,1
+503,Move,Little Mix,77,0
+504,Little Me,Little Mix,77,3
+505,Black Magic,Little Mix,77,1
+506,Love Me Like You,Little Mix,77,1
+507,Weird People,Little Mix,77,1
+508,I Go Back,Selena Gomez,79,3
+509,When the Sun Goes Down,Selena Gomez,79,1
+510,Round & Round,Selena Gomez,79,0
+511,A Year Without Rain,Selena Gomez,79,1
+512,Rock God,Selena Gomez,79,1
+513,Sucker,Jonas Brothers,81,1
+514,Cool,Jonas Brothers,81,1
+515,Only Human,Jonas Brothers,81,1
+516,That's Just the Way We Roll,Jonas Brothers,81,3
+517,Hold On,Jonas Brothers,81,3
+518,BB Good,Jonas Brothers,81,1
+519,Silent Night,Mariah Carey,82,2
+520,All I Want For Christmas Is You,Mariah Carey,82,3
+521,O Holy Night,Mariah Carey,82,2
+522,Touch My Body,Mariah Carey,82,1
+523,Goodies,Ciara,83,1
+524,"One, Two Step",Ciara,83,1
+525,Thug Style,Ciara,83,1
+526,Goodies,Ciara,83,1
+527,"One, Two Step",Ciara,83,1
+528,Thug Style,Ciara,83,1
+529,Jackie (B.M.F.),Ciara,83,0
+530,That's How I'm Feelin' (feat. Pitbull & Missy Elliott),Ciara,83,1
+531,Lullaby,Ciara,83,1
+532,Who Will Save Your Soul,Jewel,84,2
+533,Pieces of You,Jewel,84,2
+534,Little Sister,Jewel,84,2
+535,Stronger Woman,Jewel,84,3
+536,I Do,Jewel,84,1
+537,Love Is a Garden,Jewel,84,2
+538,No Good In Goodbye,Jewel,84,3
+539,I Love You Forever,Jewel,84,1
+540,Fading,Jewel,84,2
+541,Motivation (feat. Lil Wayne),Kelly Rowland,85,0
+542,Like This (feat. Eve),Kelly Rowland,85,1
+543,Comeback,Kelly Rowland,85,1
+544,Ghetto (feat. Snoop Dogg),Kelly Rowland,85,3
+545,Freak,Kelly Rowland,85,1
+546,Kisses Down Low,Kelly Rowland,85,1
+547,Love in the Future (Intro),John Legend,86,2
+548,The Beginning...,John Legend,86,2
+549,Open Your Eyes,John Legend,86,2
+550,Save Room,John Legend,86,1
+551,Heaven,John Legend,86,3
+552,Stereo,John Legend,86,1
+553,I Know Better,John Legend,86,2
+554,Penthouse Floor (feat. Chance the Rapper),John Legend,86,2
+555,Darkness and Light (feat. Brittany Howard),John Legend,86,3
+556,Money On My Mind,Sam Smith,87,1
+557,Good Thing,Sam Smith,87,2
+558,Stay With Me,Sam Smith,87,2
+559,Too Good at Goodbyes,Sam Smith,87,2
+560,Say It First,Sam Smith,87,2
+561,One Last Song,Sam Smith,87,2
+562,Safe With Me,Sam Smith,87,3
+563,Nirvana,Sam Smith,87,2
+564,Can I Have It Like That,Pharrell Williams,88,1
+565,How Does It Feel?,Pharrell Williams,88,1
+566,Raspy Shit,Pharrell Williams,88,1
+567,Rude,MAGIC!,89,1
+568,No Evil,MAGIC!,89,1
+569,Let Your Hair Down,MAGIC!,89,1
+570,Have It All,MAGIC!,89,1
+571,Lay You Down Easy (feat. Sean Paul),MAGIC!,89,3
+572,Gloria,MAGIC!,89,3
+573,Coins In a Fountain,Passenger,90,2
+574,27,Passenger,90,3
+575,Heart's On Fire,Passenger,90,2
+576,Coins In a Fountain,Passenger,90,2
+577,27,Passenger,90,3
+578,Heart's On Fire,Passenger,90,2
+579,Pompeii,Bastille,91,1
+580,Things We Lost in the Fire,Bastille,91,3
+581,Bad Blood,Bastille,91,1
+582,Pompeii,Bastille,91,1
+583,Things We Lost in the Fire,Bastille,91,3
+584,Bad Blood,Bastille,91,1
+585,Good Grief,Bastille,91,1
+586,The Currents,Bastille,91,3
+587,An Act of Kindness,Bastille,91,2
+588,Tennis Court,Lorde,92,1
+589,400 Lux,Lorde,92,3
+590,Royals,Lorde,92,1
+591,Tennis Court,Lorde,92,1
+592,400 Lux,Lorde,92,3
+593,Royals,Lorde,92,1
+594,Green Light,Lorde,92,3
+595,Sober,Lorde,92,1
+596,Homemade Dynamite,Lorde,92,1
+597,Tribute,John Newman,93,3
+598,Love Me Again,John Newman,93,3
+599,Losing Sleep,John Newman,93,1
+600,All My Heart,John Newman,93,3
+601,Something Special,John Newman,93,3
+602,Love Me Again,John Newman,93,3
+603,Love Me Again,John Newman,93,3
+604,Love Me Again,John Newman,93,3
+605,Intro,Disclosure,94,0
+606,When a Fire Starts to Burn,Disclosure,94,1
+607,Intro,Disclosure,94,0
+608,When a Fire Starts To Burn,Disclosure,94,1
+609,I Want You Back,Michael Jackson,95,1
+610,ABC,Michael Jackson,95,1
+611,Wanna Be Startin' Somethin',Michael Jackson,95,1
+612,Baby Be Mine,Michael Jackson,95,1
+613,The Girl Is Mine (with Paul McCartney),Michael Jackson,95,1
+614,She Looks So Perfect,5 Seconds of Summer,96,3
+615,Good Girls,5 Seconds of Summer,96,3
+616,Money,5 Seconds of Summer,96,3
+617,She's Kinda Hot,5 Seconds of Summer,96,1
+618,Hey Everybody!,5 Seconds of Summer,96,1
+619,She Looks So Perfect,5 Seconds of Summer,96,3
+620,Heartache On the Big Screen,5 Seconds of Summer,96,1
+621,The Only Reason,5 Seconds of Summer,96,0
+622,Walk the Line,Iggy Azalea,97,1
+623,Work,Iggy Azalea,97,0
+624,Walk the Line,Iggy Azalea,97,1
+625,Talk Dirty (feat. 2 Chainz),Jason Derulo,98,1
+626,Wiggle (feat. Snoop Dogg),Jason Derulo,98,1
+627,Trumpets,Jason Derulo,98,2
+628,Want to Want Me,Jason Derulo,98,1
+629,Talk Dirty (feat. 2 Chainz),Jason Derulo,98,1
+630,Wiggle (feat. Snoop Dogg),Jason Derulo,98,1
+631,Want to Want Me,Jason Derulo,98,1
+632,Cheyenne,Jason Derulo,98,1
+633,Get Ugly,Jason Derulo,98,1
+634,The One,The Chainsmokers,99,1
+635,Break Up Every Night,The Chainsmokers,99,1
+636,Bloodstream,The Chainsmokers,99,3
+637,Setting Fires,The Chainsmokers,99,3
+638,All We Know (feat. Phoebe Ryan),The Chainsmokers,99,1
+639,Closer (feat. Halsey),The Chainsmokers,99,2
+640,Roses (feat. ROZES),The Chainsmokers,99,1
+641,New York City,The Chainsmokers,99,3
+642,Until You Were Gone (feat. Emily Warren),The Chainsmokers,99,3
+643,Skinny Love,Birdy,100,2
+644,Wings,Birdy,100,3
+645,Heart of Gold,Birdy,100,1
+646,Growing Pains,Birdy,100,3
+647,Shadow,Birdy,100,2
+648,Keeping Your Head Up,Birdy,100,3
+649,Skinny Love,Birdy,100,2
+650,Wings,Birdy,100,3
+651,Heart of Gold,Birdy,100,1
+652,Rockstar,A Great Big World,101,1
+653,Land of Opportunity,A Great Big World,101,1
+654,Already Home,A Great Big World,101,1
+655,All I Want Is Love,A Great Big World,101,1
+656,Kaleidoscope,A Great Big World,101,1
+657,End of the World,A Great Big World,101,3
+658,When I Was a Boy,A Great Big World,101,3
+659,Chandelier,Sia,102,3
+660,Big Girls Cry,Sia,102,3
+661,Burn the Pages,Sia,102,3
+662,Bird Set Free,Sia,102,3
+663,Alive,Sia,102,3
+664,One Million Bullets,Sia,102,0
+665,The Fight,Sia,102,0
+666,Clap Your Hands,Sia,102,1
+667,Stop Trying,Sia,102,3
+668,3AM (Pull Up) [feat. MØ],Charli XCX,103,3
+669,Blame It On U,Charli XCX,103,1
+670,Backseat (feat. Carly Rae Jepsen),Charli XCX,103,0
+671,Out of My Head (feat. Tove Lo and ALMA),Charli XCX,103,1
+672,Lucky,Charli XCX,103,2
+673,Smile,Lily Allen,104,3
+674,Knock 'Em Out,Lily Allen,104,3
+675,LDN,Lily Allen,104,1
+676,Everyone's At It,Lily Allen,104,0
+677,The Fear,Lily Allen,104,2
+678,Not Fair,Lily Allen,104,1
+679,Sheezus,Lily Allen,104,1
+680,L8 CMMR,Lily Allen,104,1
+681,Air Balloon,Lily Allen,104,1
+682,Cannonball,Lea Michele,105,3
+683,On My Way,Lea Michele,105,3
+684,Burn with You,Lea Michele,105,3
+685,It's the Most Wonderful Time of the Year,Lea Michele,105,2
+686,Have Yourself a Merry Little Christmas,Lea Michele,105,2
+687,Christmas in New York,Lea Michele,105,2
+688,Eraser,Ed Sheeran,106,1
+689,Castle on the Hill,Ed Sheeran,106,3
+690,Dive,Ed Sheeran,106,1
+691,Before You Go,Lewis Capaldi,178,2
