@@ -156,9 +156,9 @@ def write_song():               #write_song authorizes spotify api creates file 
     statement="select name,id from artist"
     mycursor.execute(statement)
     myresult = mycursor.fetchall()
-    with open('songs2.csv','a',newline='') as file:
-        writer=csv.writer(file)
-        writer.writerow(["Sno","Song","Artist","ArtistID","acousticness","danceability","liveness","loudness","speechiness","valence","energy"])
+    #with open('songs2.csv','a',newline='') as file:
+    #    writer=csv.writer(file)
+    #    writer.writerow(["Sno","Song","Artist","ArtistID","acousticness","danceability","liveness","loudness","speechiness","valence","energy"])
     for i in myresult:
         write_song_to_csv(i[0],i[1])
         print(song_count)
@@ -174,7 +174,7 @@ def pred(features):
     with open('model_pickle','rb') as file:
         model=pickle.load(file)
         c=(model.predict(fu))
-        print("label: ",c[0])
+        return(c[0])
 
 
 def add_song(song,artist):
@@ -189,21 +189,19 @@ def add_song(song,artist):
             writer.writerow([song_count,song,artist,ArtID,fu])
         song_count+=1
     else:
-        print('Not found')
+        print('Song or Artist could not be found')
 #write_song()
 #train_model()
 
-while True:
-    a=input("Artist: ")
-    s=input("Song: ")
-    j=f(a,s)
-    if(j!='Null'):
-        print(pred(j))
-    else:
-        print("No features avlbl")
-    x=int(input("0 to exit: "))
-    if(x==0):
-        break
+def recommend(l):
+    mydb=MySQLdb.connect(host="localhost",user="root",passwd="xj0461",database="project2")
+    mycursor=mydb.cursor()
+    for i in range(len(l)):
+        statement="select s.name,a.name, s.cluster from songs s, artist a where s.ArtistID=a.ID and s.cluster= "+str(i)+" order by rand() limit "+str(l[i])+";"
+        mycursor.execute(statement)
+        myresult = mycursor.fetchall()
+        for j in myresult:
+            print(j)
 
 #print(pred(f('Ed Sheeran','Dive')))
 #add_song('Before You Go','Lewis Capaldi')
