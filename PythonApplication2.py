@@ -203,5 +203,7 @@ def recommend(l):
         for j in myresult:
             print(j)
 
-#print(pred(f('Ed Sheeran','Dive')))
+'''a=input("Artist: ")
+s=input("Song: ")
+print(pred(f(a,s)))'''
 #add_song('Before You Go','Lewis Capaldi')
